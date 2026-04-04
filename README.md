@@ -20,9 +20,9 @@
 
 I'm a **CSE graduate from Daffodil International University** (Full Scholarship recipient) and currently working as a **Technical Support Executive at Programming Hero**.I have a strong foundation in **Machine Learning**, **Python**, and **Laravel** and I'm actively expanding my skills into **Cloud Computing** and **Cyber Security**.
 
-- 🔭 Currently focused on **Cloud Computing** & **Cyber Security**
-- 🎓 Scholarship holder at undergraduate studies
-- ⚡ Fun fact: When I'm not coding → playing cricket 🏏 or going on a bike tour 🏍️
+- Currently focused on **Cloud Computing** & **Cyber Security**
+- Scholarship holder at undergraduate studies
+- Fun fact: When I'm not coding → playing cricket 🏏 or going on a bike tour 🏍️
 
 ---
 
