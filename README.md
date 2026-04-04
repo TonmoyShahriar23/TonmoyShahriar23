@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Mostaque Shahriar Tonmoy
+#  Hi, I'm Mostaque Shahriar Tonmoy
 **CSE Graduate | Technical Support Executive | Backend Developer**
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ---
 
-### 💫 About Me
+###  About Me
 I am a **CSE Graduate from Daffodil International University** and currently working as a **Technical Support Executive at Programming Hero**. I have a strong foundation in **Machine Learning**, **Python**, and **Laravel**.
 
 [💼 LinkedIn](https://www.linkedin.com/in/tonmoy-shahriar-479a8730b/) | [🌐 Portfolio](https://jolly-gumption-c7955e.netlify.app)
@@ -36,7 +36,7 @@ I am a **CSE Graduate from Daffodil International University** and currently wor
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
