@@ -1,11 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Mostaque Shahriar Tonmoy
+#  Hi, I'm Mostaque Shahriar Tonmoy
 **CSE Graduate | Technical Support Executive | Backend Developer**
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=Welcome%20to%20my%20Space&fontSize=50" width="100%" />
-</p>
 
 ---
 
@@ -19,7 +16,7 @@ I am a **CSE Graduate from Daffodil International University** and currently wor
 ### 🚀 Tech Stack & Tools
 
 **Languages & Frameworks**
-<p align="left">
+<p align="center">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/php-%23777BB1.svg?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
@@ -27,7 +24,7 @@ I am a **CSE Graduate from Daffodil International University** and currently wor
 </p>
 
 **DevOps & Tools**
-<p align="left">
+<p align="center">
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
