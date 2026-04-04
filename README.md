@@ -3,9 +3,7 @@
 #  Hi, I'm Mostaque Shahriar Tonmoy
 **CSE Graduate | Technical Support Executive | Backend Developer**
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=Welcome%20to%20my%20Space&fontSize=50" width="100%" />
-</p>
+
 
 ---
 
