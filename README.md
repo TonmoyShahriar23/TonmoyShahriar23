@@ -33,18 +33,6 @@ I am a **CSE Graduate from Daffodil International University** and currently wor
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Mostaque's GitHub Stats" />
-</p>
-
----
-
 ### 🛠 Recent Activity
 - 🔭 I’m currently focused on **Cloud Computing** and **Cyber Security**.
 - 🎓 Recipient of a **Full Scholarship** for my undergraduate studies.
