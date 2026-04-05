@@ -103,6 +103,6 @@ I'm a **CSE graduate from Daffodil International University** (Full Scholarship 
 
 ---
 
-⭐️ *"Code. Scale. Impact."*
+ *"Code. Scale. Impact."*
 
 </div>
