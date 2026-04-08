@@ -82,18 +82,18 @@ I'm a **CSE graduate from Daffodil International University** (Full Scholarship 
 
 <table align="center">
 <tr>
-<td valign="top" width="50%">
+<td valign="top">
 
-✅ Strong Laravel backend architecture understanding
-✅ REST API development & integration
-✅ Full-stack project development experience
+✅ Strong Laravel backend architecture understanding  
+✅ REST API development & integration  
+✅ Full-stack project development experience  
 
 </td>
-<td valign="top" width="50%">
+<td valign="top">
 
-✅ Clean, maintainable & scalable coding practices
-✅ Problem-solving mindset
-✅ Ability to integrate intelligent systems into web platforms
+✅ Clean, maintainable & scalable coding practices  
+✅ Problem-solving mindset  
+✅ Ability to integrate intelligent systems into web platforms  
 
 </td>
 </tr>
