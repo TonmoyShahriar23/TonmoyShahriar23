@@ -18,13 +18,14 @@
 
 ### 👨‍💻 About Me
 
-I'm a **CSE graduate from Daffodil International University** (Full Scholarship recipient) and currently working as a **Technical Support Executive at Programming Hero**.I have a strong foundation in **Machine Learning**, **Python**, and **Laravel** and I'm actively expanding my skills into **Cloud Computing** and **Cyber Security**.
+I'm a **CSE graduate from Daffodil International University** (Full Scholarship recipient) and currently working as a **Technical Support Executive at Programming Hero**.  
+I have a strong foundation in **Machine Learning**, **Python**, and **Laravel**, and I'm actively expanding my skills into **Cloud Computing** and **Cyber Security**.
 
 <div align="left">
   
--  Currently focused on **Cloud Computing** & **Cyber Security**  
--  Scholarship holder at undergraduate studies
--  Fun fact: When I'm not coding → playing cricket 🏏 or going on a bike tour 🏍️
+- 🔭 Currently focused on **Cloud Computing** & **Cyber Security**  
+- 🎓 Scholarship holder at undergraduate studies  
+- ⚡ Fun fact: When I'm not coding → playing cricket 🏏 or going on a bike tour 🏍️
 
 </div>
 
@@ -85,6 +86,43 @@ I'm a **CSE graduate from Daffodil International University** (Full Scholarship 
 
 ---
 
+### 📊 GitHub Analytics (Design 1)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TonmoyShahriar&show_icons=true&count_private=true&hide_border=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonmoyShahriar&layout=compact&hide_border=true&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TonmoyShahriar&theme=radical" width="90%" />
+</p>
+
+<details align="center">
+  <summary><b>📈 More stats (contributions, streaks, etc.)</b></summary>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TonmoyShahriar&hide_border=true&theme=radical" width="70%" />
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=TonmoyShahriar&theme=radical&no-frame=true&row=1&column=6" width="90%" />
+</details>
+
+---
+
+### 📈 Contribution Graph & Visitor Badge (Design 2)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TonmoyShahriar&theme=radical&hide_border=true&area=true" width="90%" />
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=TonmoyShahriar.TonmoyShahriar" />
+</p>
+
+<p align="center">
+  <i>“Built from sleepless nights, quiet hopes, and a heart that won't give up”</i>
+</p>
+
+---
+
 ### 🛠 Recent Activity
 
 - 📚 Learning advanced **Cloud Computing** & **Cyber Security** concepts  
@@ -103,6 +141,6 @@ I'm a **CSE graduate from Daffodil International University** (Full Scholarship 
 
 ---
 
- *"Code. Scale. Impact."*
+⭐️ *"Code. Scale. Impact."*
 
 </div>
