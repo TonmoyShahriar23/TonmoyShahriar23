@@ -23,7 +23,7 @@ I'm a **CSE graduate from Daffodil International University** (Full Scholarship 
 <div align="left">
   
 -  Currently focused on **Cloud Computing** & **Cyber Security**  
--  Scholarship holder at undergraduate studies
+-  Scholarship holder at undergraduate studies 
 -  Fun fact: When I'm not coding → playing cricket 🏏 or going on a bike tour 🏍️
 
 </div>
