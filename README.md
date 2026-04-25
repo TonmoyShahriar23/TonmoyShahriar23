@@ -45,6 +45,7 @@ I'm a **CSE graduate from Daffodil International University** (Full Scholarship 
 
 ✅ Clean, maintainable & scalable coding practices  
 ✅ Problem-solving mindset 
+
 ✅ Ability to integrate intelligent systems into web platforms  
 
 </td>
