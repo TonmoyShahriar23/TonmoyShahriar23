@@ -92,7 +92,7 @@ I'm a **CSE graduate from Daffodil International University** (Full Scholarship 
 ### 🛠 Recent Activity
 
 - 📚 Learning advanced **Cloud Computing** & **Cyber Security** concepts  
-- 🧠 Building intelligent systems with ML + Laravel  
+- 🧠 Building intelligent systems with ML + Laravel 
 - 🤝 Open to collaborating on **Laravel** or **Python** based open-source projects  
 
 ---
