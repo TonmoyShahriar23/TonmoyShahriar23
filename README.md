@@ -45,7 +45,7 @@ I'm a **CSE graduate from Daffodil International University** (Full Scholarship 
 </td>
 <td valign="top">
 
-✅ Clean, maintainable & scalable coding practices
+✅ Clean, maintainable & scalable coding practices 
 
 ✅ Problem-solving mindset
 
